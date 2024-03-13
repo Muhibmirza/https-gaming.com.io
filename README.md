@@ -1,2 +1,2 @@
-# gamingwebsite
+# gaming
 
